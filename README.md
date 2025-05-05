@@ -2,7 +2,7 @@
 
 Серверная часть Telegram Mini App для заказа кофе. Реализована на **Spring Boot** с использованием **Spring Security** и **Spring Data JPA**.
 
-[Клиентская часть](https://github.com/mishgan325/coffee-shop-api)
+[Клиентская часть](https://github.com/mishgan325/coffee-shop)
 
 ## 🧱 Стек технологий
 
