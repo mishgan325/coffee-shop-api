@@ -30,6 +30,9 @@ telegram:
 server:
   port: <внутренний_порт> 
 
+admin:
+  password: <пароль_администратора> 
+
 spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/coffee_db
@@ -40,6 +43,7 @@ spring:
       ddl-auto: update
     show-sql: true
    database-platform: org.hibernate.dialect.PostgreSQLDialect
+
 ```
 
 ### Запуск контейнера
